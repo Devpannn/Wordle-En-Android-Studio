@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">wordle</string>
+    <string name="hoal">hola</string>
+</resources>
